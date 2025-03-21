@@ -19,6 +19,6 @@ function getGradeByScore(studentScore) {
 console.log(getGradeByScore(85)); // Output: A  
 console.log(getGradeByScore(72)); // Output: AB  
 console.log(getGradeByScore(66)); // Output: B  
-console.log(getGradeByScore(55)); // Output: C  
+console.log(getGradeByScore(55)); // Output: C 
 console.log(getGradeByScore(45)); // Output: D  
 console.log(getGradeByScore(30)); // Output: E  
